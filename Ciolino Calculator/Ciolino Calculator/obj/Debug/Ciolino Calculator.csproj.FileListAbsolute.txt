@@ -13,3 +13,18 @@ C:\Users\WILES_JOSHUA\source\repos\Ciolino Calculator\Ciolino Calculator\obj\Deb
 C:\Users\WILES_JOSHUA\source\repos\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.csproj.CoreCompileInputs.cache
 C:\Users\WILES_JOSHUA\source\repos\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.exe
 C:\Users\WILES_JOSHUA\source\repos\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.pdb
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\bin\Debug\Ciolino Calculator.exe.config
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\bin\Debug\Ciolino Calculator.exe
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\bin\Debug\Ciolino Calculator.pdb
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.csprojAssemblyReference.cache
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\App.g.cs
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator_MarkupCompile.cache
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator_MarkupCompile.lref
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\MainWindow.baml
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.g.resources
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino_Calculator.Properties.Resources.resources
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.csproj.GenerateResource.cache
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.csproj.CoreCompileInputs.cache
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.exe
+C:\Users\WILES_JOSHUA\source\repos\Ciolino-Calculator\Ciolino Calculator\Ciolino Calculator\obj\Debug\Ciolino Calculator.pdb
